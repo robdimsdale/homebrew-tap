@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-brew tap robdimsdale/homebrew-tap
+brew tap robdimsdale/tap
 ```
 
 ## Avaliable Formula
