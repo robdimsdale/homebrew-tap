@@ -3,7 +3,7 @@ require "language/go"
 class Wundergo < Formula
   desc "golang wunderlist client"
   homepage "https://github.com/robdimsdale/wundergo"
-  version "0.9.0"
+  version "0.9.2"
   url "https://github.com/robdimsdale/wundergo/archive/v#{version}.tar.gz"
   sha256 ""
 
