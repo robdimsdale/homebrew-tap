@@ -3,9 +3,9 @@ require "language/go"
 class Wundergo < Formula
   desc "golang wunderlist client"
   homepage "https://github.com/robdimsdale/wundergo"
-  version "0.15.0"
+  version "0.16.0"
   url "https://github.com/robdimsdale/wundergo/archive/v#{version}.tar.gz"
-  sha256 "6965d1aab5397eea904854d2affc30554283408252a4ff8614c70827ec5bf8ee"
+  sha256 "224cefd9d260d4633348b12236c1207912d654f4f6501061bfdb3ab61091ecd7"
 
   depends_on "go" => :build
 
