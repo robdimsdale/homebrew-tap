@@ -1,6 +1,6 @@
 require "language/go"
 
-class WL < Formula
+class Wl < Formula
   desc "golang wunderlist client"
   homepage "https://github.com/robdimsdale/wl"
   version "1.0.0"
