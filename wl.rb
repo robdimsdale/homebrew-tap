@@ -3,9 +3,9 @@ require "language/go"
 class Wl < Formula
   desc "golang wunderlist client"
   homepage "https://github.com/robdimsdale/wl"
-  version "1.2.0"
+  version "1.2.1"
   url "https://github.com/robdimsdale/wl/archive/v#{version}.tar.gz"
-  sha256 "b9dec8fb042d72034ca83b65efd5c825e45bcc4cb40a2e4f71a463008d391993"
+  sha256 "a5d2d442fa4f96d1a303906089112fa44225edd8a199040c53be38d7f89062f2"
 
   depends_on "go" => :build
 
